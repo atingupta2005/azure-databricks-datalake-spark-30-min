@@ -20,6 +20,7 @@ az account set --subscription 34ea504b-f779-4be0-892d-f968f164113d
   "password": "<>",
   "tenant": "6bb2f9af-a0af-4c32-a5ec-5f7011d37551"
 }
+```
 
 - Mount ADLS to Databricks using Secret Scope
   - Refer to the code in jupyter notebook

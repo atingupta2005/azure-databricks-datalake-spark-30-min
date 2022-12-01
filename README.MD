@@ -13,6 +13,7 @@
 ```
 az account set --subscription 34ea504b-f779-4be0-892d-f968f164113d
 ```
+```
 {
   "appId": "b9344d96-c48b-426c-8551-68ee134b70ac",
   "displayName": "spDataBricksDataLake2",
